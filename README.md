@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Angel</h1>
-<h3 align="center">from Argentina</h3>
+<h1 align="center">Hi, I'm Angel</h1>
+<h3 align="center">I’m currently studying Computer Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angeluis07&label=Profile%20views&color=0e75b6&style=flat" alt="angeluis07" /> </p>
-
-- 🌱 I’m currently studying **Computer Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
